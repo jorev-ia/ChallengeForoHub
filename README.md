@@ -1,5 +1,9 @@
 <h1 align="center"> 🎓 Challenge ForoHub 🎓 </h1>
 
+<p align="center">
+<img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/ca5e34fc-74d6-44c4-b126-c01a866fab3e" />
+</p>
+
 ## 🌟 Funcionalidades del proyecto
 
 ForoHub es una API REST construida con el framework Spring, pensada para administrar un foro de discusión. Permite a los usuarios realizar operaciones de creación, lectura, modificación y eliminación de tópicos (CRUD). La arquitectura sigue los principios recomendados del modelo REST, incorporando validaciones, mecanismos de autenticación y autorización, además de utilizar una base de datos relacional para almacenar la información de forma persistente.
